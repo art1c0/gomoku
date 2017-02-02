@@ -1,10 +1,10 @@
 Gomoku online multiplayer written in React and Node.js.
 
 Use:
-npm build
+npm run build
 
 Then:
-npm serve
+npm run serve
 
 Local:
 http://localhost:3000/
