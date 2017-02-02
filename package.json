@@ -16,5 +16,8 @@
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject",
     "serve": "node server.js"
+  },
+  "engines": {
+    "node": "4.2.6"
   }
 }
